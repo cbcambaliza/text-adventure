@@ -1,0 +1,8 @@
+			FindPotionRoom	
+	Find5GoldRoom	EmptyCavePath	GiantLizardRoom	TrapRoom
+		TrapRoom		
+		EmptyCavePath		
+WildDogRoom	EmptyCavePath	StartingRoom	EmptyCavePath	FindDaggerRoom
+		Find5GoldRoom		
+		EmptyCavePath	OgreRoom	LeaveCaveRoom		
+		WildDogRoom	TrapRoom	
